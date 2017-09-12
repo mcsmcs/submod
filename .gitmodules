@@ -1,3 +1,6 @@
 [submodule "Semantic-UI-React"]
 	path = Semantic-UI-React
 	url = https://github.com/Semantic-Org/Semantic-UI-React.git
+[submodule "hig"]
+	path = hig
+	url = https://github.com/Autodesk/hig.git
